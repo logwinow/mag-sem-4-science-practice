@@ -3,19 +3,19 @@
 
 # **Отчёты**
 * ### **ИСР 1** 
-![ИСР 1]()
+![ИСР 1](https://github.com/logwinow/mag-sem-4-science-practice/blob/main/%D0%98%D0%A1%D0%A0%201.png)
 
 * ### **ИСР 2**   
-![ИСР 2]()
+![ИСР 2](https://github.com/logwinow/mag-sem-4-science-practice/blob/main/%D0%98%D0%A1%D0%A0%202.png)
 
 * ### **ВСР 1.2** 
 ![ВСР 1.2.](https://github.com/logwinow/mag-sem-4-science-practice/blob/main/%D0%92%D0%A1%D0%A0%201.2.png)
 
 * ### **ВСР 2.2** 
-![ВСР 2.2.]()
+![ВСР 2.2.](https://github.com/logwinow/mag-sem-4-science-practice/blob/main/%D0%92%D0%A1%D0%A0%202.2.png)
 
 * ### **Задание на производственную практику** 
-![Задание на производственную практику]()
+![Задание на производственную практику](https://github.com/logwinow/mag-sem-4-science-practice/blob/main/task.png)
 
 * ### **Отчёт о прохождении производственной практики** 
-![Отчёт о прохождении производственной практики]()
+![Отчёт о прохождении производственной практики](https://github.com/logwinow/mag-sem-4-science-practice/blob/main/report.png)
